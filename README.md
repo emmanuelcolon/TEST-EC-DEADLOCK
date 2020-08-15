@@ -1,9 +1,9 @@
 # TEST-EC-DEADLOCK
 TEST DEADLOCK
 
-To Run Vue Project (En the file SistemaVue/Sistema)
+To Run Vue Project
 
-Terminal: 
+Terminal (../SistemaVue/Sistema) : 
 - npm install -g @vue/cli
 - npm install
 - npm run serve
