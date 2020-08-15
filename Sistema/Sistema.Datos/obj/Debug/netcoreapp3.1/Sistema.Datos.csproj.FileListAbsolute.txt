@@ -1,0 +1,13 @@
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.deps.json
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.dll
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.runtimeconfig.json
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Datos.pdb
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Entidades.dll
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Debug\netcoreapp3.1\Sistema.Entidades.pdb
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.dll
+C:\Users\Bioprinting\Documents\Proyectos EC\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Debug\netcoreapp3.1\Sistema.Datos.pdb
