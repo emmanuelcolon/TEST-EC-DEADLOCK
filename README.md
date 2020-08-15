@@ -3,9 +3,10 @@ TEST DEADLOCK
 
 To Run Vue Project
 
-terminal: npm run serve
+- Terminal: npm run serve
 
 To Run .Net (Api) Project:
 
-Open the .sln and execute the project
-Change the ConnectionStrings in the file Sistema.Web/appsettings.json
+- Open the .sln
+- Change the ConnectionStrings in the file Sistema.Web/appsettings.json
+- Execute the project
